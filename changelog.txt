@@ -1,3 +1,5 @@
+0.2.115 Ported to Wesnoth 1.12
+
 0.2.112 Fixed small typo in macros
 
 0.2.111 Updated map SXC_Wizard_of_War
