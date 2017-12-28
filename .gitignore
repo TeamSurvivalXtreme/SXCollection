@@ -5,6 +5,9 @@ _info.cfg
 # And ensure that _server.pbl doesn't get checked in
 *.pbl
 
+# A file for checking the README.md's conversion to HTML
+temp.html
+
 # Ignore various OS-specific files
 [Tt]humbs.db
 ehthumbs.db
