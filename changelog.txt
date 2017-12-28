@@ -1,4 +1,6 @@
-0.2.115 Ported to Wesnoth 1.12
+0.2.115 (and 0.2.115x) Update for EoM and EoMa prefix changes
+
+0.2.114 (or earlier) Ported to Wesnoth 1.12
 
 0.2.112 Fixed small typo in macros
 
