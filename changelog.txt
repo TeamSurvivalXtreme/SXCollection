@@ -1,3 +1,9 @@
+0.2.116 Make terrain modifications immediately update the shroud
+        Update map SXC_CursedLand for Ageless changes
+        Remove delay in showing "player x stands at shop"
+        Moving on to the shop can no longer be undone
+        Remove unused files
+
 0.2.115 (and 0.2.115x) Update for EoM and EoMa prefix changes
 
 0.2.114 (or earlier) Ported to Wesnoth 1.12
