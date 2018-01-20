@@ -1,3 +1,9 @@
+0.2.117 Support most of Ageless Era's healing and regeneration
+        AE abilities upgrade to megacures, minorcures and megaregen
+        Remove AE's sculpts (petrify for two turns) ability
+        Fixes for shop graphics glitches on several maps
+        Prevent trapping a player with SXC Light Cave's terrain changes
+
 0.2.116 Make terrain modifications immediately update the shroud
         Update map SXC_CursedLand for Ageless changes
         Remove delay in showing "player x stands at shop"
