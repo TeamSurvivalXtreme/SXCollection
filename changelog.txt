@@ -1,3 +1,11 @@
+0.2.118 Non-flying units can train for deep water and unwalkable terrain
+        Fix for shop graphics glitch on SXC_Isars_Crossfire
+        Recognise more AE abilities that now upgrade to megaregen
+        Added updated versions of SXC_Slaughter and SXC_Pressure
+        Maps now have per-map descriptions when creating a game
+        Maps that need Ageless Era now say that at the start of their description
+        Solved some WML warnings that were displayed with less than 5 players
+
 0.2.117 Support most of Ageless Era's healing and regeneration
         AE abilities upgrade to megacures, minorcures and megaregen
         Remove AE's sculpts (petrify for two turns) ability
