@@ -1,3 +1,7 @@
+0.2.118+dune Branch for Wesnoth 1.13/1.14
+        Use the Dunefolk's new unit ids
+        Change a 1.12 leadership macro to the 1.13.2 version
+
 0.2.118 Non-flying units can train for deep water and unwalkable terrain
         Fix for shop graphics glitch on SXC_Isars_Crossfire
         Recognise more AE abilities that now upgrade to megaregen
