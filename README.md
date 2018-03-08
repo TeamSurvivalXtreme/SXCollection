@@ -4,6 +4,10 @@ SurvivalXtreme Collection
 A set of individual scenarios where 1-5 players cooperate to defeat the computer-controlled forces.
 This is an add-on for the game [Wesnoth](https://www.wesnoth.org/).
 
+The `master` branch is currently for Wesnoth 1.12.6.
+
+The `dune` branch is for Wesnoth 1.13/1.14, minimum version 1.13.12. If you are building from Git, the minimum version is 1.13.11+dev with 494b2f35ca58d2ccd3106724a86267ca666e6805.
+
 In-game description (for the add-ons server)
 --------------------------------------------
 
