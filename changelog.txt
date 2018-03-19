@@ -1,3 +1,12 @@
+0.2.119+dune Branch for Wesnoth 1.13/1.14
+        Merge 0.2.118+dune and 0.2.119
+
+0.2.119 Text and text formatting improvements from SXCR
+        Revive support and extra help in rookie mode
+        Fix ability upgrades (megacures etc) not working on Wesnoth 1.13.x
+        Remove buggy code related to the fearless trait
+        Fix for shop graphics glitch on SXC_Advanced
+
 0.2.118+dune Branch for Wesnoth 1.13/1.14
         Use the Dunefolk's new unit ids
         Change a 1.12 leadership macro to the 1.13.2 version
