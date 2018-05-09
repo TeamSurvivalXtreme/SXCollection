@@ -1,5 +1,10 @@
-0.2.119+dune Branch for Wesnoth 1.13/1.14
-        Merge 0.2.118+dune and 0.2.119
+0.2.120+dune Branch for Wesnoth 1.13/1.14
+        Merge 0.2.119+dune and 0.2.120
+
+0.2.120 Bugfixes for SXC on Wesnoth 1.14
+        Fix for AI leaders being assigned random faction's recruit lists
+        Fix for fearless ability having no effect
+        Fix for being able to buy fearless twice
 
 0.2.119 Text and text formatting improvements from SXCR
         Revive support and extra help in rookie mode
