@@ -1,3 +1,8 @@
+0.2.120 Bugfixes for SXC on Wesnoth 1.14
+        Fix for AI leaders being assigned random faction's recruit lists
+        Fix for fearless ability having no effect
+        Fix for being able to buy fearless twice
+
 0.2.119 Text and text formatting improvements from SXCR
         Revive support and extra help in rookie mode
         Fix ability upgrades (megacures etc) not working on Wesnoth 1.13.x
