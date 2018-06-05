@@ -1,3 +1,9 @@
+0.2.121 In revive mode, add a note about respawning to the death messages
+        Fix for the WML error in Mountains of Doom (an event lacked a name)
+        Include the version in the names of Slaughter and Storm Castle
+        Make Pressure's south-west sluice guard visible from the start
+        Fix some comments and spelling errors
+
 0.2.120 Bugfixes for SXC on Wesnoth 1.14
         Fix for AI leaders being assigned random faction's recruit lists
         Fix for fearless ability having no effect
