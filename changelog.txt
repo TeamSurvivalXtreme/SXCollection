@@ -1,8 +1,12 @@
-0.2.121 In revive mode, add a note about respawning to the death messages
+0.2.121 The master branch is now for Wesnoth 1.14
+        In revive mode, add a note about respawning to the death messages
         Fix for the WML error in Mountains of Doom (an event lacked a name)
         Include the version in the names of Slaughter and Storm Castle
         Make Pressure's south-west sluice guard visible from the start
         Fix some comments and spelling errors
+
+0.2.120+dune Branch for Wesnoth 1.13/1.14
+        Merge 0.2.119+dune and 0.2.120
 
 0.2.120 Bugfixes for SXC on Wesnoth 1.14
         Fix for AI leaders being assigned random faction's recruit lists
@@ -14,6 +18,10 @@
         Fix ability upgrades (megacures etc) not working on Wesnoth 1.13.x
         Remove buggy code related to the fearless trait
         Fix for shop graphics glitch on SXC_Advanced
+
+0.2.118+dune Branch for Wesnoth 1.13/1.14
+        Use the Dunefolk's new unit ids
+        Change a 1.12 leadership macro to the 1.13.2 version
 
 0.2.118 Non-flying units can train for deep water and unwalkable terrain
         Fix for shop graphics glitch on SXC_Isars_Crossfire
