@@ -1,3 +1,7 @@
+0.2.122 Fix megacures for Ageless Era 4.20
+        Add macros for adding halos to bosses with dark aura and death aura
+        Add the halos on SXC Adventure
+
 0.2.121 The master branch is now for Wesnoth 1.14
         In revive mode, add a note about respawning to the death messages
         Fix for the WML error in Mountains of Doom (an event lacked a name)
