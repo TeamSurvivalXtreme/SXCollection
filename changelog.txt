@@ -1,3 +1,12 @@
+0.2.123 Add SXC Pursuit, based on the map from Northern Rebirth
+        Update the list of plague and drain abilities for Ageless 4.20
+        Ask "melee or ranged" in the player's language
+        Update AI recruitment settings for Wesnoth 1.14
+        Support up to 6 AI sides (as used on Pursuit)
+        Spooky Forest in revive mode, respawn near a different shop
+        Spooky Forest fix a bug with Pokey, if zombies are killed at the start
+        Rename Pressure to Mermaid's Lake
+
 0.2.122 Fix megacures for Ageless Era 4.20
         Add macros for adding halos to bosses with dark aura and death aura
         Add the halos on SXC Adventure
