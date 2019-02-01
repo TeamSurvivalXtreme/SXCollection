@@ -1,3 +1,6 @@
+0.2.125 Refactor to make the cached (preprocessed) version smaller
+        Add MiE Vampires' specials to the drains and plagues list
+
 0.2.124 Fix revive creating multiple clones
 
 0.2.123 Add SXC Pursuit, based on the map from Northern Rebirth
