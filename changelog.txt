@@ -1,5 +1,16 @@
+0.2.126 Fix the income bonus for killing enemy bosses (broken in 0.2.123)
+        Correct some spelling and grammar, edit the rookie wall-of-text help
+        Remove text about SXCR-only weapon special limits
+        Fix the image path for arcane attacks' halo images
+        Simplify the Cornucopia, as there's no point dropping it
+        Refactor the potion handling code
+        Fix the line length in the terrain training table
+        More changes to make the cached (preprocessed) version smaller
+
 0.2.125 Refactor to make the cached (preprocessed) version smaller
+        Add an "Xtreme + Revive" option
         Add MiE Vampires' specials to the drains and plagues list
+        Add Medusa's sculpts (petrify) to the abilities to remove
 
 0.2.124 Fix revive creating multiple clones
 
