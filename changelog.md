@@ -1,6 +1,19 @@
 Changelog for Survival eXtreme Collection
 =========================================
 
+0.2.127
+-------
+
+* Fix recruited creeps' upkeep (the "loyal" trait wasn't applied effectively in Wesnoth 1.14)
+* Show the number of strike trainings remaining (closes #28)
+* Re-add the "earned gold" info to the right-click difficulty menu
+* Add a warning about selling duplicate weapons
+* Update unit type names for the Dune Scorcher
+* Update SXC Mythos' unit type names to match AE 4.24.0
+* Fix Spooky Forest's leaders talking in their death events
+* Remove the random low-level era (has been broken for a while)
+* Improve code readability (various refactoring changes)
+
 0.2.126
 -------
 
