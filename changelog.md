@@ -1,6 +1,12 @@
 Changelog for Survival eXtreme Collection
 =========================================
 
+0.2.128
+-------
+
+* Recognise Ageless Era's "precision" weapon special
+* Play a sound before showing messages on Rumble and Ramblin
+
 0.2.127
 -------
 
