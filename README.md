@@ -17,6 +17,15 @@ This pack also contains some abandoned scenarios in the 'unbalanced' directory, 
 
 Addon moved to Wesnoth v1.12 by ChaosRider, and currently uploaded by Octalot. If you find bugs, please comment in the forum thread, or pm Octalot.
 
+Adding your own maps
+====================
+
+Making a new map requires you to learn some WML, but for SXC a lot of it is cut-and-paste. The simplest of the existing WML files is `scen_def/SXC_Curve.cfg`, and then there's some standard copy-and-paste for "when a player moves to hex x,y, change some impassible terrain to walkable terrain".
+
+As long as all players have the SXC add-on, only the player creating the game needs to have the .cfg and .map files for the new map. That data is transferred to all players when the game starts, so the game can continue even if the host with the original files disconnects.
+
+Another question is how to create a map using SXC without putting the files inside the SXC folder, where they might get deleted when the add-on updates. That hasn't been investigated, so keep backups if you edit files there.
+
 Feedback
 ========
 
