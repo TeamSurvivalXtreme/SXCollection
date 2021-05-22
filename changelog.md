@@ -1,6 +1,16 @@
 Changelog for Survival eXtreme Collection
 =========================================
 
+0.2.129
+-------
+
+* Add SXC Infernal
+* Fix a deprecation warning about `[option]message=`
+* Remove the macros for unbalanced maps
+* Minor dialogue improvement in SXC Mermaid's Lake
+* Update shroud when buying vision (movement, movement costs, speedy)
+* Added tags "cooperative" and "survival" for searching in the add-on manager, and for Wesnoth 1.16's tag filter
+
 0.2.128
 -------
 
