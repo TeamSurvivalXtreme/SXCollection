@@ -1,6 +1,15 @@
 Changelog for Survival eXtreme Collection
 =========================================
 
+0.3.0
+-----
+
+* This is the first version for Wesnoth 1.16.
+* Maps with AE enemies require AE eras, for compatibilty with 1.16's disabling of inactive add-ons.
+* Use 1.14's new names for Dunefolk units, 1.16 drops support for the old names.
+* Update the Lua function that does a dirty translation of "melee or ranged" to the non-deprecated 1.16 version.
+* Added tags "cooperative" and "survival" for searching in the add-on manager, and for Wesnoth 1.16's tag filter
+
 0.2.129
 -------
 
@@ -9,7 +18,6 @@ Changelog for Survival eXtreme Collection
 * Remove the macros for unbalanced maps
 * Minor dialogue improvement in SXC Mermaid's Lake
 * Update shroud when buying vision (movement, movement costs, speedy)
-* Added tags "cooperative" and "survival" for searching in the add-on manager, and for Wesnoth 1.16's tag filter
 
 0.2.128
 -------
