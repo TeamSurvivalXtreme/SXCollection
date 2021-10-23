@@ -1,6 +1,11 @@
 Changelog for Survival eXtreme Collection
 =========================================
 
+0.3.1
+-----
+
+* Remembered to update the `SXC_VERSION` macro
+
 0.3.0
 -----
 
