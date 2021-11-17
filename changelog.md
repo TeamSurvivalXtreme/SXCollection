@@ -1,6 +1,12 @@
 Changelog for Survival eXtreme Collection
 =========================================
 
+0.3.2
+-----
+
+* Fix megaregen and megacures with Wesnoth 1.16.
+* SXC Infernal: fixed a warning about redefining a macro from SXC Storm Castle
+
 0.3.1
 -----
 
