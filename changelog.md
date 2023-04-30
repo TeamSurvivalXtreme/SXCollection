@@ -1,6 +1,35 @@
 Changelog for Survival eXtreme Collection
 =========================================
 
+0.3.2
+-----
+
+* Fix megaregen and megacures with Wesnoth 1.16.
+* SXC Infernal: fixed a warning about redefining a macro from SXC Storm Castle
+
+0.3.1
+-----
+
+* Remembered to update the `SXC_VERSION` macro
+
+0.3.0
+-----
+
+* This is the first version for Wesnoth 1.16.
+* Maps with AE enemies require AE eras, for compatibilty with 1.16's disabling of inactive add-ons.
+* Use 1.14's new names for Dunefolk units, 1.16 drops support for the old names.
+* Update the Lua function that does a dirty translation of "melee or ranged" to the non-deprecated 1.16 version.
+* Added tags "cooperative" and "survival" for searching in the add-on manager, and for Wesnoth 1.16's tag filter
+
+0.2.129
+-------
+
+* Add SXC Infernal
+* Fix a deprecation warning about `[option]message=`
+* Remove the macros for unbalanced maps
+* Minor dialogue improvement in SXC Mermaid's Lake
+* Update shroud when buying vision (movement, movement costs, speedy)
+
 0.2.128
 -------
 
