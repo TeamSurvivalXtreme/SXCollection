@@ -1,6 +1,13 @@
 Changelog for Survival eXtreme Collection
 =========================================
 
+0.3.3
+-----
+
+* Fixed: Wesnoth 1.16 automatically added loyal overlays to almost all enemies.
+* The silver crowns of enemy guards are now easy to see again.
+* Mobile bosses now have a red crown instead.
+
 0.3.2
 -----
 
