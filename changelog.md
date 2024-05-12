@@ -1,6 +1,16 @@
 Changelog for Survival eXtreme Collection
 =========================================
 
+0.3.3.1
+-----
+
+* SXC Cursed Land: fixed for compatibility with Ageless Era 4.31
+* SXC Slaughter: fixed missing sounds and images, edited text, compatibilty with AE 4.34
+
+A note about the version number: this was planned to be 0.3.4, but 0.3.3
+hadn't been uploaded to the 1.18 add-ons server. Someone else uploaded
+an 0.3.4 to 1.18 while what is now 0.3.3.1 was being prepared.
+
 0.3.3
 -----
 
