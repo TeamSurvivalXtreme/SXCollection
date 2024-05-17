@@ -1,22 +1,49 @@
 Changelog for Survival eXtreme Collection
 =========================================
 
+0.3.12
+-----
+
+* Even on maps with Ageless Era AI units, allow the host to choose an era for player units
+* All healing abilities will be recognised, and become megacures or minorcures
+* All regeneration abilities will be recognised, and become megaregen or minorregen
+* Revive mode now gives a full heal, but costs a bit more than a shop heal even in rookie mode
+* SXC Braveheart: made it possible to have a “spare” side for late-joining players
+* SXC Mermaid’s Lake, Pursuit and System also have the AI ignoring the “spare” side
+* Begin adding a “madder than mad” difficulty
+* Sell red potions in every shop; this might be reverted depending on feedback
+* Add a couple of Dunefolk to the SXC Default Low Level Era
+* Fix missing images in the story screens, and skip the screen that just showed the SXC version
+
+0.3.11
+---
+
+* Released by ccX, as there hadn't been an official upload to 1.18
+* Merge the fixes from 0.3.3.1
+* Fix some of the missing images in the story screens
+
+0.3.4 through 0.3.10
+---
+
+* Released by ccX, as there hadn't been an official upload to 1.18
+* Fixed some healing abilities not turning into megacures nor minorcures
+* Sell potions in every shop by default
+* Increase the difficulty for all levels
+
 0.3.3.1
 -----
+
+Probably the final upload to 1.16, released after 0.3.4.
 
 * SXC Cursed Land: fixed for compatibility with Ageless Era 4.31
 * SXC Slaughter: fixed missing sounds and images, edited text, compatibilty with AE 4.34
 
-A note about the version number: this was planned to be 0.3.4, but 0.3.3
-hadn't been uploaded to the 1.18 add-ons server. Someone else uploaded
-an 0.3.4 to 1.18 while what is now 0.3.3.1 was being prepared.
-
 0.3.3
 -----
 
-* Fixed: Wesnoth 1.16 automatically added loyal overlays to almost all enemies.
-* The silver crowns of enemy guards are now easy to see again.
-* Mobile bosses now have a red crown instead.
+* Fixed: Wesnoth 1.16 automatically added loyal overlays to almost all enemies
+* The silver crowns of enemy guards are now easy to see again
+* Mobile bosses now have a red crown instead
 
 0.3.2
 -----
