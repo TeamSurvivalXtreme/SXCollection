@@ -24,9 +24,9 @@ Making a new map requires you to learn some WML, but for SXC a lot of it is cut-
 
 As long as all players have the SXC add-on, only the player creating the game needs to have the .cfg and .map files for the new map. That data is transferred to all players when the game starts, so the game can continue even if the host with the original files disconnects.
 
-If you copy the SXC macros into another add-on, please find the two lines that are `id=sxc_shared_events`, and change those to a unique ID. Wesnoth's engine might load the wrong version if two add-ons have resources with the same id.
+If your own .cfg and .map files are in the SXCollection folder, they'll get deleted if the add-on updates. There's an explanation of how to put them in a separate add-on in a [post in the forum thread](https://r.wesnoth.org/p690726); doing that also means you could easily upload it to the add-ons server.
 
-Another question is how to create a map using SXC without putting the files inside the SXC folder, where they might get deleted when the add-on updates. That hasn't been investigated, so keep backups if you edit files there.
+If you copy the SXC macros themselves into another add-on, please find the two lines that are `id=sxc_shared_events`, and change those to a unique ID. Wesnoth's engine might load the wrong version if two add-ons have resources with the same id.
 
 Feedback
 ========
