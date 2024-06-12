@@ -1,8 +1,16 @@
 Changelog for Survival eXtreme Collection
 =========================================
 
+0.3.13
+------
+
+* SXC Maze: in revive mode, moved the respawn point closer to the shop
+* SXC Extend: moved the difficulty label near to the start location
+* New macros `SXC_ENEMY_BOSS_LOC` and `SXC_ENEMY_GUARD_3_LOC` which take `location_id`s
+* Use `map_file` instead of `map_data`
+
 0.3.12
------
+------
 
 * Even on maps with Ageless Era AI units, allow the host to choose an era for player units
 * All healing abilities will be recognised, and become megacures or minorcures
@@ -16,14 +24,14 @@ Changelog for Survival eXtreme Collection
 * Fix missing images in the story screens, and skip the screen that just showed the SXC version
 
 0.3.11
----
+------
 
 * Released by ccX, as there hadn't been an official upload to 1.18
 * Merge the fixes from 0.3.3.1
 * Fix some of the missing images in the story screens
 
 0.3.4 through 0.3.10
----
+--------------------
 
 * Released by ccX, as there hadn't been an official upload to 1.18
 * Fixed some healing abilities not turning into megacures nor minorcures
@@ -31,7 +39,7 @@ Changelog for Survival eXtreme Collection
 * Increase the difficulty for all levels
 
 0.3.3.1
------
+-------
 
 Probably the final upload to 1.16, released after 0.3.4.
 
