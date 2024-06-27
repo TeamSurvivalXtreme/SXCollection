@@ -1,6 +1,15 @@
 Changelog for Survival eXtreme Collection
 =========================================
 
+0.3.14
+------
+
+* Play a sound if a hero dies, so players listening but AFK know a message has paused the game
+* Random heroes are chosen from a “good” subset, and a player will never get an Ulf at random
+* Rename the hardest difficulty “Unwinnable”
+* The framework supports arbitrary numbers of both player and AI sides
+* The per-turn `SXC_INCOME_BONUS_10` is still limited to the first 10 AI sides’ leaders
+
 0.3.13
 ------
 
